@@ -16,7 +16,7 @@
 🍹 I've given some talks in meetups about Salesforce development and AI (recently), but don't get me wrong, is an excuse to talk to people and drink beer.
 
 ### ⚡ Fun facts 
-* My daily driver laptop is powered by Kubuntu, but I don't think this is the year the Linux Desktop.
+* My daily driver laptop is powered by Kubuntu, but I don't think this is the year of the Linux Desktop, and it is not a terrible news.
 * Even leaving in Barcelona, I am not a Barça fan, I know I deserve the maximum punishment for that, but some people might be wrong!!
 * I still think that Larry Bird and MJ are better that Lebron and Curry.
 
